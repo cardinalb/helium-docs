@@ -1,0 +1,24 @@
+# GP Pedigrees		
+Line	Parent 1	Parent 2
+Maythorpe	Irish Goldthorpe	Maja
+759/4	Maythorpe	Gamma Rays
+759/10	Maythorpe	Gamma Rays
+Golden Promise	759/4	759/4
+ic1	Proctor	Wong
+ic2	ic1	Mild Res A
+Midas	ic2	759/10
+Goldmarker	TCE141	Midas
+Celt	RPB 479/77	Sovereign
+Sovereign	Midas	Lofa Abed
+ic10	Goldmarker	Athos
+ic11	Goldmarker	Magnum
+Esk	ic10	ic11
+Tyne	ic10	ic11
+ic14	Natasha	NFC 461181
+Chad	ic14	Fleet
+ic15	Esk	Fleet
+Cask	ic15	Regatta
+Hindmarsh	Dash	VB9409
+La Trobe	Dash	VB9409
+ic16	Chad	Joline
+Dash	ic16	Cask

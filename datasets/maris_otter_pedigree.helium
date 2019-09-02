@@ -1,0 +1,52 @@
+# heliumInput=PEDIGREE Maris Otter example pedigree file for Helium (2 Column Format) Pedigree created by Bill Thomas and Paul Shaw from The James Hutton Institute	
+Line	Parent
+Talisman	Retriever
+SY Venture	Retriever
+Talisman	Flagon
+SY Venture	DH9525-42
+DH9525-42	Flagon
+DH9525-42	Milena
+Winsome	Flagon
+Mezmaar	Winsome
+Soloman	Winsome
+Winsome	DH7169-01
+Flagon	Pearl
+Flagon	IC2
+IC2	NFC296-7
+IC2	Rifle
+Rifle	NRPB87/5378
+Pipkin	Sergeant
+Pipkin	Maris Otter
+Halcyon	Warboys
+Halcyon	Maris Otter
+Maris Otter	Proctor
+Maris Otter	Pioneer
+Finesse	Maris Otter
+IC1	Igri
+IC1	Athos
+Finesse	Igri
+Fanfare	Finesse
+Fanfare	Torrent
+Puffin	IC1
+Puffin	Maris Otter
+Rifle	Puffin
+Pearl	Angora
+Opal	Angora
+Pearl	Puffin
+Opal	Puffin
+Wintmalt	IC3
+Wintmalt	Opal
+KWS Joy	Wintmalt
+KWS Joy	IC4
+Cassata	NSL96-7157
+IC4	Opal
+Cassata	Opal
+Saffron	Cassata
+IC5	Accrue
+IC5	Cassata
+Soloman	IC5
+IC6	Cassata
+IC6	Saffron
+Mezmaar	IC6
+Gleam	Torrent
+Gleam	Puffin

@@ -1,0 +1,665 @@
+# heliumInput = PHENOTYPE Sample Data File		
+Name	Location	City Status	Places I Have Lived
+Aberfeldy	Elsewhere		
+Blair Atholl	Elsewhere		
+Blairgowrie	Elsewhere		
+Crieff	Elsewhere		
+Alyth	Elsewhere		Yes
+Invergowrie	Elsewhere		
+Dunkeld	Elsewhere		
+Farr	Elsewhere		
+Kinloch Rannoch	Elsewhere		
+Pitlochry	Elsewhere		
+Abbots Deuglie	Perthshire		
+Abernethy	Perthshire		
+Acharn	Perthshire		
+Almondbank	Perthshire		
+Amulree	Perthshire		
+Atholl	Perthshire		
+Auchterarder	Perthshire		
+Balado	Perthshire		
+Ballinluig	Perthshire		
+Bankfoot	Perthshire		
+Ben Lawers	Perthshire		
+Blackford	Perthshire		
+Blackhall	Perthshire		
+Bridge of Balgie	Perthshire		
+Bridge of Earn	Perthshire		
+Burrelton	Perthshire		
+Clunie	Perthshire		
+Comrie	Perthshire		
+Coupar Angus	Perthshire		
+Creag Odhar	Perthshire		
+Dull	Perthshire		
+Dunning	Perthshire		
+Errol	Perthshire		
+Fearnan	Perthshire		
+Finegand	Perthshire		
+Forgandenny	Perthshire		
+Forteviot	Perthshire		
+Fortingall	Perthshire		
+Glen Lyon	Perthshire		
+Glenfarg	Perthshire		
+Glenshee	Perthshire		
+Gowrie	Perthshire		
+Grandtully	Perthshire		
+Greenloaning	Perthshire		
+Inchture	Perthshire		Yes
+Innerpeffray	Perthshire		
+Keltybridge	Perthshire		
+Kenmore	Perthshire		
+Killiecrankie	Perthshire		
+Kindrogan	Perthshire		
+Kingoodie	Perthshire		
+Kinross	Perthshire		
+Kinrossie	Perthshire		
+Kirkmichael	Perthshire		
+Lawers	Perthshire		
+Leetown	Perthshire		
+Loch Earn	Perthshire		
+Loch Lomond	Perthshire		
+Loch Rannoch	Perthshire		
+Loch Tay	Perthshire		
+Logierait	Perthshire		
+Luncarty	Perthshire		
+Madderty	Perthshire		
+Meigle	Perthshire		
+Meikleour	Perthshire		
+Methven	Perthshire		
+Milnathort	Perthshire		
+Muthill	Perthshire		
+Perth	Perthshire	Yes	Yes
+Pitkeathly Wells	Perthshire		
+Rannoch Moor	Perthshire		
+Rattray	Perthshire		
+River Ericht	Perthshire		
+River Isla	Perthshire		
+Scone	Perthshire		
+Spittal of Glenshee	Perthshire		
+St Fillans	Perthshire		
+Strathearn	Perthshire		
+Strathtay	Perthshire		
+Trinafour	Perthshire		
+Weem	Perthshire		
+Aboyne	Elsewhere		
+Achfary	Elsewhere		
+Alness	Elsewhere		
+Altnaharra	Elsewhere		
+Applecross	Elsewhere		
+Arisaig	Elsewhere		
+Ardlui	Elsewhere		
+Arrochar	Elsewhere		
+Auchtubh	Elsewhere		
+Auldearn	Elsewhere		
+Aultbea	Elsewhere		
+Aviemore	Elsewhere		
+Avoch	Elsewhere		
+Back of Keppoch	Elsewhere		
+Balintore	Elsewhere		
+Ballachulish	Elsewhere		
+Ballater	Elsewhere		
+Balloch	Elsewhere		
+Balquhidder	Elsewhere		
+Banavie	Elsewhere		
+Banchory	Elsewhere		
+Barcaldine	Elsewhere		
+Beauly	Elsewhere		
+Bettyhill	Elsewhere		
+Boat of Garten	Elsewhere		
+Braemar	Elsewhere		
+Braetongue	Elsewhere		
+Bridge of Orchy	Elsewhere		
+Campbeltown	Elsewhere		
+Cannich	Elsewhere		
+Carrbridge	Elsewhere		
+Castlebay	Elsewhere		
+Castletown	Elsewhere		
+Coldbackie	Elsewhere		
+Cammachmore	Elsewhere		
+Contin	Elsewhere		
+Cookney	Elsewhere		
+Corpach	Elsewhere		
+Craighouse	Elsewhere		
+Crianlarich	Elsewhere		
+Cromarty	Elsewhere		
+Culbokie	Elsewhere		
+Culloden	Elsewhere		
+Dalmally	Elsewhere		
+Dalnaspidal	Elsewhere		
+Dalwhinnie	Elsewhere		
+Dingwall	Elsewhere		
+Dornie	Elsewhere		
+Dornoch	Elsewhere		
+Doune	Elsewhere		
+Drumbeg	Elsewhere		
+Dulnain Bridge	Elsewhere		
+Dunbeath	Elsewhere		
+Dunnet	Elsewhere		
+Dunoon	Elsewhere		
+Durness	Elsewhere		
+Elgin	Elsewhere		
+Evanton	Elsewhere		
+Edderton	Elsewhere		
+Fort Augustus	Elsewhere		
+Fort William	Elsewhere		
+Fortrose	Elsewhere		
+Gairloch	Elsewhere		
+Gillock	Elsewhere		
+Glencoe	Elsewhere		
+Glenelg	Elsewhere		
+Glendaruel	Elsewhere		
+Golspie	Elsewhere		
+Grantown-on-Spey	Elsewhere		
+Glenfinnan	Elsewhere		
+Halkirk	Elsewhere		
+Helmsdale	Elsewhere		
+Hilton	Elsewhere		
+Inveraray	Elsewhere		
+Inverbeg	Elsewhere		
+Invergordon	Elsewhere		
+Invermoriston	Elsewhere		
+Inverness	Elsewhere	Yes	
+Inveruglas	Elsewhere		
+John o' Groats	Elsewhere		
+Keiss	Elsewhere		
+Killin	Elsewhere		
+Kilmartin	Elsewhere		
+Kingussie	Elsewhere		
+Kinlochbervie	Elsewhere		
+Kinlocheil	Elsewhere		
+Kinlochleven	Elsewhere		
+Kinlochewe	Elsewhere		
+Kyle of Lochalsh	Elsewhere		
+Laggan	Elsewhere		
+Lochailort	Elsewhere		
+Lochcarron	Elsewhere		
+Lochinver	Elsewhere		
+Lochranza	Elsewhere		
+Lochgoilhead	Elsewhere		
+Lochearnhead	Elsewhere		
+Lochgilphead	Elsewhere		
+Lybster	Elsewhere		
+Mallaig	Elsewhere		
+Maryculter	Elsewhere		
+Morar	Elsewhere		
+Muchalls	Elsewhere		
+Muir of Ord	Elsewhere		
+Nairn	Elsewhere		
+Netherley	Elsewhere		
+Newtonmore	Elsewhere		
+North Connel	Elsewhere		
+North Ballachulish	Elsewhere		
+Nethy Bridge	Elsewhere		
+Oban	Elsewhere		
+Peterculter	Elsewhere		
+Plockton	Elsewhere		
+Poolewe	Elsewhere		
+Portmahomack	Elsewhere		
+Reay	Elsewhere		
+Rosemarkie	Elsewhere		
+Scourie	Elsewhere		
+Shandwick	Elsewhere		
+Shieldaig	Elsewhere		
+Spean Bridge	Elsewhere		
+Strathpeffer	Elsewhere		
+Strathy	Elsewhere		
+Strathyre	Elsewhere		
+Strontian	Elsewhere		
+Stornoway	Elsewhere		
+Tain	Elsewhere		
+Tarbet	Elsewhere		
+Tarbert-Harris	Elsewhere		
+Taynuilt	Elsewhere		
+Thurso	Elsewhere		
+Tighnabruaich	Elsewhere		
+Tobermory	Elsewhere		
+Tomintoul	Elsewhere		
+Tongue	Elsewhere		
+Torridon	Elsewhere		
+Tullich	Elsewhere		
+Tyndrum	Elsewhere		
+Ullapool	Elsewhere		
+Watten	Elsewhere		
+Whaligoe	Elsewhere		
+Wick	Elsewhere		
+Abune-the-Hill	Orkney		
+Aikerness	Orkney		
+Aikers	Orkney		
+Aith	Orkney		
+Backaland	Orkney		
+Backaskaill	Orkney		
+Balfour	Orkney		
+Beaquoy	Orkney		
+Berstane	Orkney		
+Bimbister	Orkney		
+Birsay	Orkney		
+Boloquoy	Orkney		
+Bow	Orkney		
+Braehead	Orkney		
+Braeswick	Orkney		
+Breckquoy	Orkney		
+Brims	Orkney		
+Brinian	Orkney		
+Brinkie's Brae	Orkney		
+Brinyan	Orkney		
+Broughton	Orkney		
+Broughtown	Orkney		
+Burness	Orkney		
+Burray	Orkney		
+Burwick	Orkney		
+Bustatown	Orkney		
+Calfsound	Orkney		
+Cantick Head	Orkney		
+Cleat	Orkney		
+Clestrain	Orkney		
+Clouston	Orkney		
+Cornquoy	Orkney		
+Costa	Orkney		
+Deerness	Orkney		
+Dishes	Orkney		
+Dounby	Orkney		
+Easting	Orkney		
+Eastside	Orkney		
+Eday	Orkney		
+Edmonstone	Orkney		
+Egilsay	Orkney		
+Elwick	Orkney		
+Everbay	Orkney		
+Evie	Orkney		
+Finstown	Orkney		
+Firth	Orkney		
+Flotta	Orkney		
+Foubister	Orkney		
+Georth	Orkney		
+Gills Bay	Orkney		
+Gorseness	Orkney		
+Graemsay	Orkney		
+Greenigo	Orkney		
+Grim Ness	Orkney		
+Grimbister	Orkney		
+Gritley	Orkney		
+Grobister	Orkney		
+Guith	Orkney		
+Gyre	Orkney		
+Hackland	Orkney		
+Hackness	Orkney		
+Halcro	Orkney		
+Hamnavoe	Orkney		
+Harray	Orkney		
+Hatston	Orkney		
+Heddle	Orkney		
+Herston	Orkney		
+Hobbister	Orkney		
+Holland	Orkney		
+Hollandstoun	Orkney		
+Holm	Orkney		
+Housebay	Orkney		
+Houton	Orkney		
+Hoxa	Orkney		
+Hoy	Orkney		
+Hurliness	Orkney		
+Innertown	Orkney		
+Ireland	Orkney		
+Isbister	Orkney		
+Kettletoft	Orkney		
+Kirbister	Orkney		
+Kirbuster	Orkney		
+Kirkwall	Orkney		
+Knarston	Orkney		
+Lady	Orkney		
+Lamb Holm	Orkney		
+Laminess	Orkney		
+Langskaill	Orkney		
+Liddel	Orkney		
+Linklater	Orkney		
+Linklet	Orkney		
+Linksness	Orkney		
+Longhope	Orkney		
+Loth	Orkney		
+Lower Whitehall	Orkney		
+Lowertown	Orkney		
+Lyness	Orkney		
+Lythes	Orkney		
+Maeshowe	Orkney		
+Manse Bay	Orkney		
+Marwick	Orkney		
+Melsetter	Orkney		
+Midbea	Orkney		
+Midhowe	Orkney		
+Millbounds	Orkney		
+Mirbister	Orkney		
+Murra	Orkney		
+Navershaw	Orkney		
+Ness of Tenston	Orkney		
+Nesstoun	Orkney		
+Nether Button	Orkney		
+Netherbrough	Orkney		
+Newark	Orkney		
+Newbigging	Orkney		
+North Dawn	Orkney		
+North Ronaldsay	Orkney		
+Northdyke	Orkney		
+Northtown	Orkney		
+Nouster	Orkney		
+Odie	Orkney		
+Orphir	Orkney		
+Outertown	Orkney		
+Overbister	Orkney		
+Pan	Orkney		
+Papa Westray	Orkney		
+Papley	Orkney		
+Pierowall	Orkney		
+Quholm	Orkney		
+Quindry	Orkney		
+Quoyloo	Orkney		
+Quoyness	Orkney		
+Rackwick	Orkney		
+Rapness	Orkney		
+Redland	Orkney		
+Rendall	Orkney		
+Rinnigill	Orkney		
+Roadside	Orkney		
+Ronaldsvoe	Orkney		
+Rothiesholm	Orkney		
+Rousay	Orkney		
+Russland	Orkney		
+Sabiston	Orkney		
+Saltness	Orkney		
+Samsonslane	Orkney		
+Sanday	Orkney		
+Sandgarth	Orkney		
+Sandquoy	Orkney		
+Sandwick	Orkney		
+Saviskaill	Orkney		
+Scapa	Orkney		
+Scar	Orkney		
+Scarwell	Orkney		
+Settiscarth	Orkney		
+Shapinsay	Orkney		
+Skaill	Orkney		
+Skara Brae	Orkney		
+Skeabrae	Orkney		
+Skelwick	Orkney		
+Sourin	Orkney		
+South Ronaldsay	Orkney		
+Southtown	Orkney		
+St Mary's	Orkney		
+St Ola	Orkney		
+Stenness	Orkney		
+Stove	Orkney		
+Stromness	Orkney		
+Stronsay	Orkney		
+Swanbister	Orkney		
+Swannay	Orkney		
+Tankerness	Orkney		
+Tingwall	Orkney		
+Toab	Orkney		
+Tradespark	Orkney		
+Twatt	Orkney		
+Upper Sanday	Orkney		
+Uppertown	Orkney		
+Veness	Orkney		
+Voy	Orkney		
+Warbeth	Orkney		
+Wasbister	Orkney		
+Westness	Orkney		
+Westray	Orkney		
+Whitehall	Orkney		
+Widewall	Orkney		
+Woodwick	Orkney		
+Work	Orkney		
+Wyre	Orkney		
+Yesnaby	Orkney		
+Ardler	Dundee		
+Balgay	Dundee		
+Balgillo	Dundee		
+Balgowan	Dundee		
+Ballumbie	Dundee		
+Barnhill	Dundee		
+Beechwood	Dundee		
+Blackness	Dundee		
+Broughty Ferry	Dundee		
+Camperdown	Dundee		
+Charleston	Dundee		
+City Centre	Dundee		
+Claverhouse	Dundee		
+Craigiebank	Dundee		
+Douglas	Dundee		
+Downfield	Dundee		
+Fairmuir	Dundee		
+Fintry	Dundee		
+Gowrie Park	Dundee		
+Hilltown	Dundee		
+Kirkton	Dundee		
+Law	Dundee		
+Lawside	Dundee		
+Linlathen	Dundee		
+Lochee	Dundee		
+Logie	Dundee		
+Menzieshill	Dundee		
+Mid Craigie	Dundee		
+Mill o' Mains	Dundee		
+Ninewells	Dundee		
+Pitkerro	Dundee		
+St Marys	Dundee		
+Stobswell	Dundee		
+West End	Dundee		
+Whitfield	Dundee		
+Woodside	Dundee		
+Bauchan	Legendary Creatures		
+Bean nighe	Legendary Creatures		
+Bodach	Legendary Creatures		
+Boobrie	Legendary Creatures		
+Brownie	Legendary Creatures		
+Caoineag	Legendary Creatures		
+Cat sìth	Legendary Creatures		
+Ceasg	Legendary Creatures		
+Changeling	Legendary Creatures		
+Cù Sìth	Legendary Creatures		
+Dunnie	Legendary Creatures		
+Each-uisge	Legendary Creatures		
+Ghillie Dhu	Legendary Creatures		
+Gigelorum	Legendary Creatures		
+Glaistig	Legendary Creatures		
+Nessie	Legendary Creatures		
+Nicnevin	Legendary Creatures		
+Nuckelavee	Legendary Creatures		
+Oilliphéist	Legendary Creatures		
+Pech	Legendary Creatures		
+Selkie	Legendary Creatures		
+Seonaidh	Legendary Creatures		
+Shellycoat	Legendary Creatures		
+Stoor worm	Legendary Creatures		
+Wirry-cow	Legendary Creatures		
+Wulver	Legendary Creatures		
+Aileanach	Gaelic Surnames		
+Ailpeanach	Gaelic Surnames		
+Allanach	Gaelic Surnames		
+Ambarsan	Gaelic Surnames		
+Andarsan	Gaelic Surnames		
+Anndrasdan	Gaelic Surnames		
+Arasgain	Gaelic Surnames		
+Bànach	Gaelic Surnames		
+Baran	Gaelic Surnames		
+Barrach	Gaelic Surnames		
+Beitean	Gaelic Surnames		
+Bhàsa	Gaelic Surnames		
+Bhodhsa	Gaelic Surnames		
+Blacach	Gaelic Surnames		
+Blàr	Gaelic Surnames		
+Blàrach	Gaelic Surnames		
+Bochanan	Gaelic Surnames		
+Bòideach	Gaelic Surnames		
+Bràigheach	Gaelic Surnames		
+Breac	Gaelic Surnames		
+Breathnach	Gaelic Surnames		
+Brothaigh	Gaelic Surnames		
+Bruis	Gaelic Surnames		
+Brùn	Gaelic Surnames		
+Brus	Gaelic Surnames		
+Buideach	Gaelic Surnames		
+Buidheach	Gaelic Surnames		
+Buids	Gaelic Surnames		
+Buiseid	Gaelic Surnames		
+Cailbhin	Gaelic Surnames		
+Caileanach	Gaelic Surnames		
+Caimbeul	Gaelic Surnames		
+Caimbeulach	Gaelic Surnames		
+Camran	Gaelic Surnames		
+Camshron	Gaelic Surnames		
+Camshronach	Gaelic Surnames		
+Cananach	Gaelic Surnames		
+Canonach	Gaelic Surnames		
+Caoidheach	Gaelic Surnames		
+Caolaisdean	Gaelic Surnames		
+Catach	Gaelic Surnames		
+Catan	Gaelic Surnames		
+Catanach	Gaelic Surnames		
+Ceallach	Gaelic Surnames		
+Ceanadach	Gaelic Surnames		
+Ceannaideach	Gaelic Surnames		
+Cearrach	Gaelic Surnames		
+Ceiteach	Gaelic Surnames		
+Ciar	Gaelic Surnames		
+Ciarach	Gaelic Surnames		
+Ciogach	Gaelic Surnames		
+Coineagan	Gaelic Surnames		
+Crannach	Gaelic Surnames		
+Criatharach	Gaelic Surnames		
+Cuimeanach	Gaelic Surnames		
+Cuimein	Gaelic Surnames		
+Cuimeineach	Gaelic Surnames		
+Càidh	Gaelic Surnames		
+Cèamp	Gaelic Surnames		
+Cèampach	Gaelic Surnames		
+Còmhan	Gaelic Surnames		
+Dalais	Gaelic Surnames		
+Deòir	Gaelic Surnames		
+Deòireach	Gaelic Surnames		
+Druimeanach	Gaelic Surnames		
+Druimein	Gaelic Surnames		
+Druimeineach	Gaelic Surnames		
+Druiminn	Gaelic Surnames		
+Dubh	Gaelic Surnames		
+Dubhach	Gaelic Surnames		
+Dùbhghlas	Gaelic Surnames		
+Dùghallach	Gaelic Surnames		
+Dùghlas	Gaelic Surnames		
+Dùghlasach	Gaelic Surnames		
+Dunaid	Gaelic Surnames		
+Dunaidh	Gaelic Surnames		
+Eabarcrombaigh	Gaelic Surnames		
+Fearghasdan	Gaelic Surnames		
+Fionnlasdan	Gaelic Surnames		
+Foirbeiseach	Gaelic Surnames		
+Forsàidh	Gaelic Surnames		
+Fòlais	Gaelic Surnames		
+Friseal	Gaelic Surnames		
+Frisealach	Gaelic Surnames		
+Gall	Gaelic Surnames		
+Gallach	Gaelic Surnames		
+Geadais	Gaelic Surnames		
+Geadasach	Gaelic Surnames		
+Gearailteach	Gaelic Surnames		
+Gilios	Gaelic Surnames		
+GillAndrais	Gaelic Surnames		
+GillEasbaig	Gaelic Surnames		
+GillEasbuig	Gaelic Surnames		
+GilleChriosd	Gaelic Surnames		
+GilleChrìost	Gaelic Surnames		
+Gill'Iosa	Gaelic Surnames		
+Giobsan	Gaelic Surnames		
+Glas	Gaelic Surnames		
+Gobha	Gaelic Surnames		
+Grannd	Gaelic Surnames		
+Grannda	Gaelic Surnames		
+Granndach	Gaelic Surnames		
+Greum	Gaelic Surnames		
+Greumach	Gaelic Surnames		
+Griogal	Gaelic Surnames		
+Griogalach	Gaelic Surnames		
+Griogarach	Gaelic Surnames		
+Guaire	Gaelic Surnames		
+Guinne	Gaelic Surnames		
+Gunnach	Gaelic Surnames		
+Gutraidh	Gaelic Surnames		
+Gòrdan	Gaelic Surnames		
+Gòrdanach	Gaelic Surnames		
+Ìomharach	Gaelic Surnames		
+Latharnach	Gaelic Surnames		
+Lathurna	Gaelic Surnames		
+Leamhanach	Gaelic Surnames		
+Leamhnach	Gaelic Surnames		
+Leòideach	Gaelic Surnames		
+Lobhdain	Gaelic Surnames		
+Loganach	Gaelic Surnames		
+Loudain	Gaelic Surnames		
+Lìos	Gaelic Surnames		
+Lìosach	Gaelic Surnames		
+Lùtair	Gaelic Surnames		
+MacAnndaidh	Gaelic Surnames		
+MacAnndra	Gaelic Surnames		
+MacAnndrais	Gaelic Surnames		
+MacAodhagain	Gaelic Surnames		
+MacAoidhein	Gaelic Surnames		
+MacAomalain	Gaelic Surnames		
+MacAra	Gaelic Surnames		
+MacArtain	Gaelic Surnames		
+MacAsgaidh	Gaelic Surnames		
+MacAsgaill	Gaelic Surnames		
+MacAsgain	Gaelic Surnames		
+MacBeatha	Gaelic Surnames		
+MacBeathag	Gaelic Surnames		
+MacBhàididh	Gaelic Surnames		
+MacBharrais	Gaelic Surnames		
+MacBhàtair	Gaelic Surnames		
+MacBheathaig	Gaelic Surnames		
+MacBheathain	Gaelic Surnames		
+MacBhigein	Gaelic Surnames		
+MacBhiocair	Gaelic Surnames		
+MacBhlàthain	Gaelic Surnames		
+MacBhradain	Gaelic Surnames		
+MacBhrìghdeinn	Gaelic Surnames		
+MacCàba	Gaelic Surnames		
+MacCaibe	Gaelic Surnames		
+MacCailein	Gaelic Surnames		
+MacCain	Gaelic Surnames		
+MacCaisgein	Gaelic Surnames		
+MacCalmain	Gaelic Surnames		
+MacCaluim	Gaelic Surnames		
+Ròsach	Gaelic Surnames		
+Rothach	Gaelic Surnames		
+Ruadh	Gaelic Surnames		
+Ruiseal	Gaelic Surnames		
+Sailcirc	Gaelic Surnames		
+Salmond	Gaelic Surnames		
+Seadh	Gaelic Surnames		
+Seadhg	Gaelic Surnames		
+Seagha	Gaelic Surnames		
+Seaghach	Gaelic Surnames		
+Seathanach	Gaelic Surnames		
+Sgèin	Gaelic Surnames		
+Sginnearach	Gaelic Surnames		
+Sgot	Gaelic Surnames		
+Singleir	Gaelic Surnames		
+Siosal	Gaelic Surnames		
+Siosalach	Gaelic Surnames		
+Smios	Gaelic Surnames		
+Stiùbhart	Gaelic Surnames		
+Stiùbhartach	Gaelic Surnames		
+Sùdrach	Gaelic Surnames		
+Sutharlainn	Gaelic Surnames		
+Sutharlan	Gaelic Surnames		
+Suthurlanach	Gaelic Surnames		
+Tod	Gaelic Surnames		
+Todt	Gaelic Surnames		
+Talmhach	Gaelic Surnames		
+Tolmach	Gaelic Surnames		
+Tuairnear	Gaelic Surnames		
+Tàileach	Gaelic Surnames		
+Tàillear	Gaelic Surnames		
+Tulach	Gaelic Surnames		
+Ualas	Gaelic Surnames		
+Umphraidh	Gaelic Surnames		
+Urchadainn	Gaelic Surnames		
+Urchardan	Gaelic Surnames		
