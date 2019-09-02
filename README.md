@@ -1,5 +1,12 @@
-# Helium Documentation
+# Introduction
 
 These pages will contain documentation for the Helium pedigree visualization software developed by Information and Computational Sciences at the James Hutton Institute in Scotland.
 
 Please either click on the 'Wiki' link above or [here](https://github.com/cardinalb/helium-docs/wiki) to go to the documentation. These documents are very much a work in progress so if there are any questions you may have on Helium then please contact us on [helium@hutton.ac.uk](mailto:helium@hutton.ac.uk). Also, any feedback on how we can improve Helium or add new features that would be useful to the community please let us know.
+
+# About Helium
+The ability to predict and visualize the inheritance of genes that facilitate resistance to pathogens or any other commercially important characteristic is crucially important to experimental plant genetics and commercial plant breeding programmes. Derivation of this information by traditional molecular techniques is expensive and time consuming, even with developments in high-throughput technologies over the past five years. This is especially true in industrial settings where, due to time constraints relating to growing seasons, many thousands of plant lines may need to be screened quickly, efficiently and economically every year.
+
+There is, however, a cognitive limitation conceptualising large pedigree structures. While it may not be achievable or indeed necessary to understand every mating relationship between related individuals or lines, an overall picture can lead to insight into the data and any patterns it may contain. This can also aid in the identification of problems within datasets when coupled with expert domain knowledge. Tools that provide the ability to pull these data types together, and integrate with pedigree structure, will facilitate breeders and researchers to make more informed decisions relating to suitable plant lines to use in subsequent crossings. It is imperative that we develop more suitable crops to meet both the population imposed mandate for increased yield/production and adaptation to a changing global climate.
+
+Our aim is to make Helium a generic platform in which various data types can be shown in a pedigree context and we hope to have a beta version available soon that users can download and experiment with. We have also modified the Germinate database platform to handle pedigree data in a new format which makes it suitable for inclusion into Helium.
