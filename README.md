@@ -1,4 +1,4 @@
-# Introduction
+# Look at the Wiki for information on Helium
 
 These pages will contain documentation for the Helium pedigree visualization software developed by Information and Computational Sciences at the James Hutton Institute in Scotland.
 
