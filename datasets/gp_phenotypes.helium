@@ -1,44 +1,44 @@
-#input=PHENOTYPE	
-Line	DG
-Irish Goldthorpe	Tall
-Maja	Tall
-759/4	ari-e.GP
-759/10	ari-e.GP
-Golden Promise	ari-e.GP
-ic1	Tall
-ic2	Tall
-Midas	ari-e.GP
-Goldmarker	ari-e.GP
-Celt	ari-e.GP
-Sovereign	ari-e.GP
-Fleet	ari-e.GP
-ic10	Tall
-ic11	Tall
-Esk	ari-e.GP
-Tyne	ari-e.GP
-ic14	Tall
-Chad	ari-e.GP
-ic15	ari-e.GP
-Cask	ari-e.GP
-Hindmarsh	ari-e.GP
-La Trobe	ari-e.GP
-ic16	Tall
-Dash	ari-e.GP
-Maythorpe	Tall
-Proctor	Tall
-TCE141	Tall
-Triumph	sdw1
-RPB 479/77	Tall
-Claret	Tall
-Natasha	sdw1
-Athos	Tall
-Corniche	sdw1
-Gamma Rays	
-Wong	Tall
-Mild Res A	Tall
-Lofa Abed	Tall
-Magnum	sdw1
-NFC 461181	
-Regatta	Tall
-VB9409	
-Joline	Tall
+#input=PHENOTYPE		
+Line	DG	RL
+Irish Goldthorpe	Tall	
+Maja	Tall	
+759/4	ari-e.GP	
+759/10	ari-e.GP	
+Golden Promise	ari-e.GP	1968
+ic1	Tall	
+ic2	Tall	
+Midas	ari-e.GP	1970
+Goldmarker	ari-e.GP	1978
+Celt	ari-e.GP	1985
+Sovereign	ari-e.GP	
+Fleet	ari-e.GP	
+ic10	Tall	
+ic11	Tall	
+Esk	ari-e.GP	
+Tyne	ari-e.GP	1988
+ic14	Tall	
+Chad	ari-e.GP	1991
+ic15	ari-e.GP	
+Cask	ari-e.GP	
+Hindmarsh	ari-e.GP	
+La Trobe	ari-e.GP	
+ic16	Tall	
+Dash	ari-e.GP	
+Maythorpe	Tall	
+Proctor	Tall	1953
+TCE141	Tall	
+Triumph	sdw1	1980
+RPB 479/77	Tall	
+Claret	Tall	1980
+Natasha	sdw1	1985
+Athos	Tall	1977
+Corniche	sdw1	1986
+Gamma Rays		
+Wong	Tall	
+Mild Res A	Tall	
+Lofa Abed	Tall	1971
+Magnum	sdw1	1978
+NFC 461181		
+Regatta	Tall	1986
+VB9409		
+Joline	Tall	1988
